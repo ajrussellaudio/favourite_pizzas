@@ -31,7 +31,7 @@ File structure is relative to the directory `.gitignore` is stored in.
 
 ##Sources
 
-https://git-scm.com/docs/gitignore
-http://stackoverflow.com/questions/13675216/why-should-i-use-gitignore
-https://www.quora.com/Whats-the-purpose-of-a-gitignore-file
-http://gitready.com/beginner/2009/01/19/ignoring-files.html
+* https://git-scm.com/docs/gitignore
+* http://stackoverflow.com/questions/13675216/why-should-i-use-gitignore
+* https://www.quora.com/Whats-the-purpose-of-a-gitignore-file
+* http://gitready.com/beginner/2009/01/19/ignoring-files.html
